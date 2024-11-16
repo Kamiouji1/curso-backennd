@@ -18,5 +18,6 @@ app.get('/', (req, res) =>{
 
 
 app.listen(8080, () => {
-    console.log('Server is running on port 8080')
+    console.log(`Iniciando o ambiente ${process.env.NODE_ENV}`)
+    console.log('Server rodando na porta 8080')
 })
