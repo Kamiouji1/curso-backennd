@@ -1,12 +1,12 @@
-GET http://localhost:8080/posts
+GET http://localhost:8080/api/posts
 
 ###
 
-GET http://localhost:8080/posts/1
+GET http://localhost:8080/api/posts/1
 
 ###
 
-POST  http://localhost:8080/posts
+POST  http://localhost:8080/api/posts
 Content-Type: application/json
 
 {
@@ -16,7 +16,7 @@ Content-Type: application/json
 }
 
 ###
-PUT http://localhost:8080/posts?id=1
+PUT http://localhost:8080/api/posts?id=1
 Content-Type: application/json
 
 {
@@ -25,4 +25,4 @@ Content-Type: application/json
 }
 
 ###
-DELETE http://localhost:8080/posts?id=1
+DELETE http://localhost:8080/api/posts?id=1
