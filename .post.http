@@ -1,0 +1,28 @@
+GET http://localhost:8080/posts
+
+###
+
+GET http://localhost:8080/posts/1
+
+###
+
+POST  http://localhost:8080/posts
+Content-Type: application/json
+
+{
+    "titulo": "Aprendendo Node.js",
+    "texto": "Meu texto",
+    "userId": 3
+}
+
+###
+PUT http://localhost:8080/posts?id=1
+Content-Type: application/json
+
+{
+    "titulo": "Desaprendendo PHP",
+    "texto": "Meu novo texto"
+}
+
+###
+DELETE http://localhost:8080/posts?id=1

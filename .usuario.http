@@ -1,0 +1,27 @@
+
+GET http://localhost:8080/usuarios/3
+
+###
+
+POST http://localhost:8080/usuarios
+content-type: application/json
+
+{
+    
+    "email": "Gibson@gmail.com",
+    "senha": "algumasenha"
+}
+
+###
+
+PUT http://localhost:8080/usuarios/1
+content-type: application/json
+
+{
+    "email": "Carlosdasilva@gmail.com",
+    "senha": "Outrasenha"
+}
+
+###
+
+DELETE http://localhost:8080/usuarios/1
