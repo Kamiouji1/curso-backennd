@@ -12,7 +12,7 @@ Content-Type: application/json
 {
     "titulo": "Aprendendo Node.js",
     "texto": "Meu texto",
-    "userId": 1
+    "userId": 60
 }
 
 ###

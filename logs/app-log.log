@@ -1,0 +1,4 @@
+2024-11-17T01:29:32.610Z [info] Iniciando o ambiente development
+2024-11-17T01:29:32.613Z [info] Server rodando na porta 8080
+2024-11-17T01:29:38.674Z [debug] Requisição GET na rota /api/posts
+2024-11-17T01:29:40.875Z [debug] Requisição GET na rota /api/posts/1

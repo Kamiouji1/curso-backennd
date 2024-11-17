@@ -7,6 +7,8 @@ var multer = require('multer');
 
 const path = require('path')
 
+const ErroHandler = require('../utils/ErrorHandler')
+
 var storage = multer.diskStorage({
     destination: function (req, file, cb) {
         cb(null, 'public/uploads')
@@ -27,7 +29,8 @@ const fileFilter = (req, file, cb) => {
 
 var upload = multer({ storage: storage, fileFilter: fileFilter })
 
-const { Post, Usuario } = require('../db/models')
+const { Post, Usuario } = require('../db/models');
+
 
 module.exports = router
 
@@ -64,13 +67,17 @@ router.post('/:id/upload', upload.single('foto'), async (req, res) => {
     }
 })
 
-router.post('/', async (req, res) => {
+router.post('/', async (req, res, next) => {
     const data = req.body
     if(req.file){
         data.foto = `/static/uploads/${req.file.filename}`
     }
-    const post = await Post.create(data)
-    res.json({msg: "Post adicionado com sucesso!"})
+    try{
+        const post = await Post.create(data)
+        res.json({msg: "Post adicionado com sucesso!"})
+    }catch(err){
+        next(new ErroHandler(500, 'Falha interna ao adicionar postagem')) //tratamento de erro
+    }
 })
 
 router.delete('/', async (req, res) => {
