@@ -6,7 +6,7 @@ var expressLayouts = require('express-ejs-layouts')
 const indexRoute = require('./rotas/index.rota')
 const logger = require('./utils/logger')
 const logMiddleware = require ('./middleware/log.mid')
-
+require('dotenv').config()
 const app = express()
 
 app.use(express.json())

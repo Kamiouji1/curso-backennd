@@ -8,8 +8,8 @@ content-type: application/json
 
 {
     
-    "email": "agilebranco@gmail.com",
-    "senha": "passounoteste"
+    "email": "jaycegod@gmail.com",
+    "senha": "70denovo"
 }
 
 ###
@@ -24,4 +24,14 @@ content-type: application/json
 
 ###
 
-DELETE http://localhost:8080/api/usuarios/1
+DELETE http://localhost:8080/api/usuarios/7
+
+###
+
+POST http://localhost:8080/api/usuarios/login
+Content-Type: application/json
+
+{
+    "email": "caixapreta@gmail.com",
+    "senha": "sextanoite"
+}

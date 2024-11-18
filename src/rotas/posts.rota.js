@@ -4,10 +4,11 @@ const router = express.Router()
 const postMid = require('../middleware/validarPost.middleware')
 
 var multer = require('multer');
-
 const path = require('path')
 
 const ErroHandler = require('../utils/ErrorHandler')
+const autenticar = require('../middleware/autenticacao.mid')
+
 
 var storage = multer.diskStorage({
     destination: function (req, file, cb) {
@@ -34,9 +35,9 @@ const { Post, Usuario } = require('../db/models');
 
 module.exports = router
 
-router.post('/', upload.single('foto'))
-router.post('/', postMid)
-router.put('/', postMid)
+router.post('/', autenticar, upload.single('foto'))
+router.post('/', autenticar, postMid)
+router.put('/', autenticar, postMid)
 
 router.get('/', async (req, res)=> {
     const posts = await Post.findAll()

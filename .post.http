@@ -8,11 +8,12 @@ GET http://localhost:8080/api/posts/1
 
 POST  http://localhost:8080/api/posts
 Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjUsImVtYWlsIjoiY2FpeGFwcmV0YUBnbWFpbC5jb20iLCJpYXQiOjE3MzE5NDgwMDEsImV4cCI6MTczMTk1MDQwMX0.zXCFvbBG7uLwfrynirOph7pJP2oJo5SUYWHhqxVyPOQ
 
 {
-    "titulo": "Aprendendo Node.js",
+    "titulo": "IHC 2.0",
     "texto": "Meu texto",
-    "userId": 60
+    "userId": 5
 }
 
 ###
