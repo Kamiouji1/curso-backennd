@@ -8,22 +8,25 @@ const jwt = require('jsonwebtoken')
 
 const { Usuario} = require ('../db/models')
 
-module.exports = router
-
 router.post('/', usuarioMid)
 router.put('/', usuarioMid)
 
 // GET - Listar todos os usuários
 router.get('/', async (req, res)=> {
     const usuarios = await Usuario.findAll()
-    res.json({usuarios: usuarios})
+
+    const resultado = usuarios.map(user => prepararResultado(user.dataValues))
+    res.json({usuarios: resultado})
 })
 
 // GET - Obter um usuário pelo ID
 router.get('/:id', async (req, res) => {
     const usuario = await Usuario.findByPk(req.params.id)
-    
-    res.json({usuarios: usuario}) // Corrigido: usar 'usuario' ao invés de 'usuarios'
+    if (usuario){
+        res.json({usuario: prepararResultado(usuario.dataValues) }) 
+    }else{
+        res.status(400).json({ msg: 'Usuário não encontrado' })
+    }
 })
 
 router.post('/', async (req, res) => {
@@ -96,3 +99,15 @@ router.post('/login', async (req, res) =>{
         res.status(403).json({ msg: "usuário ou senha inválidos" })
     }
 })
+
+function prepararResultado(usuario){
+    const result = Object.assign({}, usuario)
+
+    if(result.createdAt) delete result.createdAt //remove o resultado do createdAt
+    if(result.updatedAt) delete result.updatedAt //remove o resultado do updatedAt
+    if(result.senha) delete result.senha 
+    
+    return result
+}
+
+module.exports = router

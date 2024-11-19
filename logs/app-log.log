@@ -343,3 +343,1136 @@
 2024-11-18T16:44:00.995Z [info] Server rodando na porta 8080
 2024-11-18T16:44:05.799Z [debug] Requisição POST na rota /api/posts
 2024-11-18T16:44:16.704Z [debug] Requisição GET na rota /api/posts
+2024-11-18T16:58:50.523Z [debug] Requisição GET na rota /
+2024-11-18T16:58:50.571Z [debug] Requisição GET na rota /static/uploads/foto-1731790070448.jpg
+2024-11-18T16:58:50.574Z [debug] Requisição GET na rota /static/uploads/foto-1731798196716.jpg
+2024-11-18T16:58:50.607Z [debug] Requisição GET na rota /static/img/IMG_20191104_152636_443.jpg
+2024-11-18T16:58:50.608Z [debug] Requisição GET na rota /static/uploads/foto-1731798590361.jpeg
+2024-11-18T16:58:50.609Z [debug] Requisição GET na rota /static/uploads/foto-1731798779928.jpg
+2024-11-18T19:51:14.818Z [info] Iniciando o ambiente development
+2024-11-18T19:51:14.820Z [info] Server rodando na porta 8080
+2024-11-18T19:51:52.505Z [debug] Requisição GET na rota /api
+2024-11-18T19:53:26.074Z [info] Iniciando o ambiente development
+2024-11-18T19:53:26.077Z [info] Server rodando na porta 8080
+2024-11-18T19:53:32.538Z [info] Iniciando o ambiente development
+2024-11-18T19:53:32.542Z [info] Server rodando na porta 8080
+2024-11-18T19:53:35.373Z [info] Iniciando o ambiente development
+2024-11-18T19:53:35.375Z [info] Server rodando na porta 8080
+2024-11-18T19:53:42.841Z [info] Iniciando o ambiente development
+2024-11-18T19:53:42.843Z [info] Server rodando na porta 8080
+2024-11-18T19:53:47.105Z [info] Iniciando o ambiente development
+2024-11-18T19:53:47.107Z [info] Server rodando na porta 8080
+2024-11-18T19:53:52.937Z [info] Iniciando o ambiente development
+2024-11-18T19:53:52.939Z [info] Server rodando na porta 8080
+2024-11-18T19:54:00.398Z [info] Iniciando o ambiente development
+2024-11-18T19:54:00.400Z [info] Server rodando na porta 8080
+2024-11-18T19:54:11.677Z [info] Iniciando o ambiente development
+2024-11-18T19:54:11.680Z [info] Server rodando na porta 8080
+2024-11-18T19:54:15.924Z [info] Iniciando o ambiente development
+2024-11-18T19:54:15.927Z [info] Server rodando na porta 8080
+2024-11-18T19:54:56.331Z [debug] Requisição GET na rota /api/usuarios
+2024-11-18T19:56:08.229Z [info] Iniciando o ambiente development
+2024-11-18T19:56:08.232Z [info] Server rodando na porta 8080
+2024-11-18T20:50:26.569Z [info] Iniciando o ambiente development
+2024-11-18T20:50:26.571Z [info] Server rodando na porta 8080
+2024-11-18T20:50:41.513Z [info] Iniciando o ambiente development
+2024-11-18T20:50:41.515Z [info] Server rodando na porta 8080
+2024-11-18T20:50:48.118Z [info] Iniciando o ambiente development
+2024-11-18T20:50:48.121Z [info] Server rodando na porta 8080
+2024-11-18T20:50:53.006Z [info] Iniciando o ambiente development
+2024-11-18T20:50:53.008Z [info] Server rodando na porta 8080
+2024-11-18T20:50:59.296Z [info] Iniciando o ambiente development
+2024-11-18T20:50:59.298Z [info] Server rodando na porta 8080
+2024-11-18T20:51:04.823Z [info] Iniciando o ambiente development
+2024-11-18T20:51:04.826Z [info] Server rodando na porta 8080
+2024-11-18T20:51:11.250Z [info] Iniciando o ambiente development
+2024-11-18T20:51:11.253Z [info] Server rodando na porta 8080
+2024-11-18T20:51:59.160Z [info] Iniciando o ambiente development
+2024-11-18T20:51:59.162Z [info] Server rodando na porta 8080
+2024-11-18T20:52:07.855Z [info] Iniciando o ambiente development
+2024-11-18T20:52:07.857Z [info] Server rodando na porta 8080
+2024-11-18T20:53:34.884Z [info] Iniciando o ambiente development
+2024-11-18T20:53:34.886Z [info] Server rodando na porta 8080
+2024-11-18T20:53:51.321Z [debug] Requisição GET na rota /api/usuarios
+2024-11-18T20:54:40.283Z [info] Iniciando o ambiente development
+2024-11-18T20:54:40.285Z [info] Server rodando na porta 8080
+2024-11-18T20:54:48.531Z [info] Iniciando o ambiente development
+2024-11-18T20:54:48.533Z [info] Server rodando na porta 8080
+2024-11-18T20:54:51.897Z [info] Iniciando o ambiente development
+2024-11-18T20:54:51.899Z [info] Server rodando na porta 8080
+2024-11-18T20:54:55.990Z [info] Iniciando o ambiente development
+2024-11-18T20:54:55.992Z [info] Server rodando na porta 8080
+2024-11-18T20:54:58.358Z [info] Iniciando o ambiente development
+2024-11-18T20:54:58.360Z [info] Server rodando na porta 8080
+2024-11-18T20:55:02.958Z [info] Iniciando o ambiente development
+2024-11-18T20:55:02.960Z [info] Server rodando na porta 8080
+2024-11-18T20:55:07.997Z [info] Iniciando o ambiente development
+2024-11-18T20:55:07.998Z [info] Server rodando na porta 8080
+2024-11-18T20:55:10.139Z [info] Iniciando o ambiente development
+2024-11-18T20:55:10.141Z [info] Server rodando na porta 8080
+2024-11-18T20:55:14.887Z [info] Iniciando o ambiente development
+2024-11-18T20:55:14.889Z [info] Server rodando na porta 8080
+2024-11-18T20:55:23.151Z [info] Iniciando o ambiente development
+2024-11-18T20:55:23.153Z [info] Server rodando na porta 8080
+2024-11-18T20:55:39.903Z [info] Iniciando o ambiente development
+2024-11-18T20:55:39.906Z [info] Server rodando na porta 8080
+2024-11-18T20:55:41.824Z [info] Iniciando o ambiente development
+2024-11-18T20:55:41.826Z [info] Server rodando na porta 8080
+2024-11-18T20:56:01.167Z [debug] Requisição GET na rota /api/usuarios/3
+2024-11-18T20:56:05.874Z [debug] Requisição GET na rota /api/usuarios/3
+2024-11-18T20:56:18.918Z [info] Iniciando o ambiente development
+2024-11-18T20:56:18.920Z [info] Server rodando na porta 8080
+2024-11-18T20:56:29.466Z [info] Iniciando o ambiente development
+2024-11-18T20:56:29.469Z [info] Server rodando na porta 8080
+2024-11-18T20:56:31.620Z [debug] Requisição GET na rota /api/usuarios/3
+2024-11-18T20:56:45.341Z [debug] Requisição GET na rota /api/usuarios
+2024-11-18T20:57:11.089Z [debug] Requisição GET na rota /
+2024-11-18T20:57:18.682Z [debug] Requisição GET na rota /
+2024-11-18T20:57:47.479Z [debug] Requisição GET na rota /api/usuarios
+2024-11-18T20:57:54.558Z [debug] Requisição GET na rota /api/usuarios/3
+2024-11-18T20:57:57.868Z [debug] Requisição GET na rota /api/usuarios/2
+2024-11-18T20:58:02.182Z [debug] Requisição GET na rota /api/usuarios/6
+2024-11-18T20:58:21.794Z [debug] Requisição GET na rota /api/usuarios
+2024-11-18T20:59:54.585Z [info] Iniciando o ambiente development
+2024-11-18T20:59:54.587Z [info] Server rodando na porta 8080
+2024-11-18T20:59:57.306Z [info] Iniciando o ambiente development
+2024-11-18T20:59:57.308Z [info] Server rodando na porta 8080
+2024-11-18T21:00:00.277Z [info] Iniciando o ambiente development
+2024-11-18T21:00:00.279Z [info] Server rodando na porta 8080
+2024-11-18T21:00:04.439Z [info] Iniciando o ambiente development
+2024-11-18T21:00:04.441Z [info] Server rodando na porta 8080
+2024-11-18T21:00:06.829Z [info] Iniciando o ambiente development
+2024-11-18T21:00:06.833Z [info] Server rodando na porta 8080
+2024-11-18T21:00:07.903Z [info] Iniciando o ambiente development
+2024-11-18T21:00:07.905Z [info] Server rodando na porta 8080
+2024-11-18T21:00:13.220Z [info] Iniciando o ambiente development
+2024-11-18T21:00:13.223Z [info] Server rodando na porta 8080
+2024-11-18T21:00:20.836Z [info] Iniciando o ambiente development
+2024-11-18T21:00:20.838Z [info] Server rodando na porta 8080
+2024-11-18T21:00:23.265Z [info] Iniciando o ambiente development
+2024-11-18T21:00:23.267Z [info] Server rodando na porta 8080
+2024-11-18T21:00:29.700Z [info] Iniciando o ambiente development
+2024-11-18T21:00:29.702Z [info] Server rodando na porta 8080
+2024-11-18T21:00:38.449Z [info] Iniciando o ambiente development
+2024-11-18T21:00:38.451Z [info] Server rodando na porta 8080
+2024-11-18T21:00:40.467Z [info] Iniciando o ambiente development
+2024-11-18T21:00:40.469Z [info] Server rodando na porta 8080
+2024-11-18T21:00:41.973Z [info] Iniciando o ambiente development
+2024-11-18T21:00:41.975Z [info] Server rodando na porta 8080
+2024-11-18T21:00:51.346Z [info] Iniciando o ambiente development
+2024-11-18T21:00:51.348Z [info] Server rodando na porta 8080
+2024-11-18T21:00:54.310Z [info] Iniciando o ambiente development
+2024-11-18T21:00:54.313Z [info] Server rodando na porta 8080
+2024-11-19T09:18:35.199Z [info] Iniciando o ambiente development
+2024-11-19T09:18:35.202Z [info] Server rodando na porta 8080
+2024-11-19T09:18:45.620Z [debug] Requisição GET na rota /api/usuarios
+2024-11-19T09:19:00.148Z [debug] Requisição GET na rota /api/usuarios/6
+2024-11-19T09:20:31.342Z [info] Iniciando o ambiente development
+2024-11-19T09:20:31.346Z [info] Server rodando na porta 8080
+2024-11-19T09:20:35.150Z [info] Iniciando o ambiente development
+2024-11-19T09:20:35.154Z [info] Server rodando na porta 8080
+2024-11-19T09:21:09.411Z [info] Iniciando o ambiente development
+2024-11-19T09:21:09.414Z [info] Server rodando na porta 8080
+2024-11-19T09:21:20.252Z [info] Iniciando o ambiente development
+2024-11-19T09:21:20.255Z [info] Server rodando na porta 8080
+2024-11-19T09:21:30.063Z [debug] Requisição GET na rota /api/usuarios/6
+2024-11-19T09:21:46.064Z [debug] Requisição GET na rota /api
+2024-11-19T09:21:46.078Z [debug] Requisição GET na rota /apis
+2024-11-19T09:24:26.989Z [info] Iniciando o ambiente development
+2024-11-19T09:24:26.993Z [info] Server rodando na porta 8080
+2024-11-19T09:25:33.118Z [info] Iniciando o ambiente development
+2024-11-19T09:25:33.121Z [info] Server rodando na porta 8080
+2024-11-19T09:26:32.727Z [info] Iniciando o ambiente development
+2024-11-19T09:26:32.730Z [info] Server rodando na porta 8080
+2024-11-19T09:26:35.667Z [info] Iniciando o ambiente development
+2024-11-19T09:26:35.670Z [info] Server rodando na porta 8080
+2024-11-19T09:26:39.330Z [info] Iniciando o ambiente development
+2024-11-19T09:26:39.333Z [info] Server rodando na porta 8080
+2024-11-19T09:27:01.061Z [info] Iniciando o ambiente development
+2024-11-19T09:27:01.064Z [info] Server rodando na porta 8080
+2024-11-19T09:27:04.973Z [info] Iniciando o ambiente development
+2024-11-19T09:27:04.975Z [info] Server rodando na porta 8080
+2024-11-19T09:27:08.309Z [info] Iniciando o ambiente development
+2024-11-19T09:27:08.312Z [info] Server rodando na porta 8080
+2024-11-19T09:27:11.877Z [info] Iniciando o ambiente development
+2024-11-19T09:27:11.880Z [info] Server rodando na porta 8080
+2024-11-19T09:27:18.110Z [info] Iniciando o ambiente development
+2024-11-19T09:27:18.112Z [info] Server rodando na porta 8080
+2024-11-19T09:27:29.851Z [info] Iniciando o ambiente development
+2024-11-19T09:27:29.854Z [info] Server rodando na porta 8080
+2024-11-19T09:27:32.497Z [info] Iniciando o ambiente development
+2024-11-19T09:27:32.500Z [info] Server rodando na porta 8080
+2024-11-19T09:27:33.699Z [info] Iniciando o ambiente development
+2024-11-19T09:27:33.702Z [info] Server rodando na porta 8080
+2024-11-19T09:27:39.993Z [info] Iniciando o ambiente development
+2024-11-19T09:27:39.996Z [info] Server rodando na porta 8080
+2024-11-19T09:28:56.793Z [info] Iniciando o ambiente development
+2024-11-19T09:28:56.796Z [info] Server rodando na porta 8080
+2024-11-19T09:29:10.118Z [info] Iniciando o ambiente development
+2024-11-19T09:29:10.121Z [info] Server rodando na porta 8080
+2024-11-19T09:29:12.876Z [info] Iniciando o ambiente development
+2024-11-19T09:29:12.878Z [info] Server rodando na porta 8080
+2024-11-19T09:29:16.547Z [info] Iniciando o ambiente development
+2024-11-19T09:29:16.550Z [info] Server rodando na porta 8080
+2024-11-19T09:29:20.068Z [info] Iniciando o ambiente development
+2024-11-19T09:29:20.071Z [info] Server rodando na porta 8080
+2024-11-19T09:29:22.976Z [info] Iniciando o ambiente development
+2024-11-19T09:29:22.979Z [info] Server rodando na porta 8080
+2024-11-19T09:29:25.166Z [info] Iniciando o ambiente development
+2024-11-19T09:29:25.170Z [info] Server rodando na porta 8080
+2024-11-19T09:29:29.697Z [info] Iniciando o ambiente development
+2024-11-19T09:29:29.701Z [info] Server rodando na porta 8080
+2024-11-19T09:29:30.936Z [info] Iniciando o ambiente development
+2024-11-19T09:29:30.939Z [info] Server rodando na porta 8080
+2024-11-19T09:29:35.178Z [info] Iniciando o ambiente development
+2024-11-19T09:29:35.181Z [info] Server rodando na porta 8080
+2024-11-19T09:29:38.051Z [info] Iniciando o ambiente development
+2024-11-19T09:29:38.057Z [info] Server rodando na porta 8080
+2024-11-19T09:29:40.661Z [info] Iniciando o ambiente development
+2024-11-19T09:29:40.665Z [info] Server rodando na porta 8080
+2024-11-19T09:29:43.703Z [info] Iniciando o ambiente development
+2024-11-19T09:29:43.706Z [info] Server rodando na porta 8080
+2024-11-19T09:29:47.302Z [info] Iniciando o ambiente development
+2024-11-19T09:29:47.306Z [info] Server rodando na porta 8080
+2024-11-19T09:29:55.943Z [info] Iniciando o ambiente development
+2024-11-19T09:29:55.947Z [info] Server rodando na porta 8080
+2024-11-19T09:29:58.438Z [info] Iniciando o ambiente development
+2024-11-19T09:29:58.441Z [info] Server rodando na porta 8080
+2024-11-19T09:30:00.234Z [info] Iniciando o ambiente development
+2024-11-19T09:30:00.240Z [info] Server rodando na porta 8080
+2024-11-19T09:30:03.710Z [info] Iniciando o ambiente development
+2024-11-19T09:30:03.713Z [info] Server rodando na porta 8080
+2024-11-19T09:30:05.789Z [info] Iniciando o ambiente development
+2024-11-19T09:30:05.793Z [info] Server rodando na porta 8080
+2024-11-19T09:30:15.041Z [info] Iniciando o ambiente development
+2024-11-19T09:30:15.044Z [info] Server rodando na porta 8080
+2024-11-19T09:30:18.670Z [info] Iniciando o ambiente development
+2024-11-19T09:30:18.673Z [info] Server rodando na porta 8080
+2024-11-19T09:30:23.783Z [info] Iniciando o ambiente development
+2024-11-19T09:30:23.786Z [info] Server rodando na porta 8080
+2024-11-19T09:30:25.850Z [info] Iniciando o ambiente development
+2024-11-19T09:30:25.853Z [info] Server rodando na porta 8080
+2024-11-19T09:30:28.741Z [info] Iniciando o ambiente development
+2024-11-19T09:30:28.744Z [info] Server rodando na porta 8080
+2024-11-19T09:30:31.217Z [info] Iniciando o ambiente development
+2024-11-19T09:30:31.220Z [info] Server rodando na porta 8080
+2024-11-19T09:30:33.560Z [info] Iniciando o ambiente development
+2024-11-19T09:30:33.564Z [info] Server rodando na porta 8080
+2024-11-19T09:30:34.831Z [info] Iniciando o ambiente development
+2024-11-19T09:30:34.833Z [info] Server rodando na porta 8080
+2024-11-19T09:30:37.152Z [info] Iniciando o ambiente development
+2024-11-19T09:30:37.155Z [info] Server rodando na porta 8080
+2024-11-19T09:30:45.658Z [info] Iniciando o ambiente development
+2024-11-19T09:30:45.662Z [info] Server rodando na porta 8080
+2024-11-19T09:30:53.437Z [info] Iniciando o ambiente development
+2024-11-19T09:30:53.442Z [info] Server rodando na porta 8080
+2024-11-19T09:30:58.225Z [info] Iniciando o ambiente development
+2024-11-19T09:30:58.228Z [info] Server rodando na porta 8080
+2024-11-19T09:31:02.815Z [info] Iniciando o ambiente development
+2024-11-19T09:31:02.818Z [info] Server rodando na porta 8080
+2024-11-19T09:31:06.025Z [info] Iniciando o ambiente development
+2024-11-19T09:31:06.029Z [info] Server rodando na porta 8080
+2024-11-19T09:31:08.604Z [info] Iniciando o ambiente development
+2024-11-19T09:31:08.606Z [info] Server rodando na porta 8080
+2024-11-19T09:31:10.406Z [info] Iniciando o ambiente development
+2024-11-19T09:31:10.409Z [info] Server rodando na porta 8080
+2024-11-19T09:31:15.625Z [info] Iniciando o ambiente development
+2024-11-19T09:31:15.629Z [info] Server rodando na porta 8080
+2024-11-19T09:31:24.172Z [info] Iniciando o ambiente development
+2024-11-19T09:31:24.175Z [info] Server rodando na porta 8080
+2024-11-19T09:31:30.692Z [info] Iniciando o ambiente development
+2024-11-19T09:31:30.696Z [info] Server rodando na porta 8080
+2024-11-19T09:31:33.968Z [info] Iniciando o ambiente development
+2024-11-19T09:31:33.971Z [info] Server rodando na porta 8080
+2024-11-19T09:31:36.207Z [info] Iniciando o ambiente development
+2024-11-19T09:31:36.210Z [info] Server rodando na porta 8080
+2024-11-19T09:31:38.592Z [info] Iniciando o ambiente development
+2024-11-19T09:31:38.595Z [info] Server rodando na porta 8080
+2024-11-19T09:31:39.992Z [info] Iniciando o ambiente development
+2024-11-19T09:31:39.995Z [info] Server rodando na porta 8080
+2024-11-19T09:31:42.011Z [info] Iniciando o ambiente development
+2024-11-19T09:31:42.014Z [info] Server rodando na porta 8080
+2024-11-19T09:31:43.877Z [info] Iniciando o ambiente development
+2024-11-19T09:31:43.881Z [info] Server rodando na porta 8080
+2024-11-19T09:31:45.633Z [info] Iniciando o ambiente development
+2024-11-19T09:31:45.636Z [info] Server rodando na porta 8080
+2024-11-19T09:31:49.333Z [info] Iniciando o ambiente development
+2024-11-19T09:31:49.336Z [info] Server rodando na porta 8080
+2024-11-19T09:31:51.354Z [info] Iniciando o ambiente development
+2024-11-19T09:31:51.357Z [info] Server rodando na porta 8080
+2024-11-19T09:31:53.757Z [info] Iniciando o ambiente development
+2024-11-19T09:31:53.760Z [info] Server rodando na porta 8080
+2024-11-19T09:32:01.382Z [info] Iniciando o ambiente development
+2024-11-19T09:32:01.386Z [info] Server rodando na porta 8080
+2024-11-19T09:32:03.399Z [info] Iniciando o ambiente development
+2024-11-19T09:32:03.402Z [info] Server rodando na porta 8080
+2024-11-19T09:32:06.354Z [info] Iniciando o ambiente development
+2024-11-19T09:32:06.358Z [info] Server rodando na porta 8080
+2024-11-19T09:32:09.378Z [info] Iniciando o ambiente development
+2024-11-19T09:32:09.382Z [info] Server rodando na porta 8080
+2024-11-19T09:32:10.519Z [info] Iniciando o ambiente development
+2024-11-19T09:32:10.522Z [info] Server rodando na porta 8080
+2024-11-19T09:32:16.632Z [info] Iniciando o ambiente development
+2024-11-19T09:32:16.636Z [info] Server rodando na porta 8080
+2024-11-19T09:32:40.196Z [info] Iniciando o ambiente development
+2024-11-19T09:32:40.199Z [info] Server rodando na porta 8080
+2024-11-19T09:32:43.980Z [info] Iniciando o ambiente development
+2024-11-19T09:32:43.982Z [info] Server rodando na porta 8080
+2024-11-19T09:32:50.205Z [info] Iniciando o ambiente development
+2024-11-19T09:32:50.207Z [info] Server rodando na porta 8080
+2024-11-19T09:32:54.720Z [info] Iniciando o ambiente development
+2024-11-19T09:32:54.723Z [info] Server rodando na porta 8080
+2024-11-19T09:33:01.812Z [info] Iniciando o ambiente development
+2024-11-19T09:33:01.815Z [info] Server rodando na porta 8080
+2024-11-19T09:33:04.076Z [info] Iniciando o ambiente development
+2024-11-19T09:33:04.079Z [info] Server rodando na porta 8080
+2024-11-19T09:33:06.826Z [info] Iniciando o ambiente development
+2024-11-19T09:33:06.830Z [info] Server rodando na porta 8080
+2024-11-19T09:33:08.519Z [info] Iniciando o ambiente development
+2024-11-19T09:33:08.521Z [info] Server rodando na porta 8080
+2024-11-19T09:33:12.601Z [info] Iniciando o ambiente development
+2024-11-19T09:33:12.604Z [info] Server rodando na porta 8080
+2024-11-19T09:33:35.813Z [info] Iniciando o ambiente development
+2024-11-19T09:33:35.815Z [info] Server rodando na porta 8080
+2024-11-19T09:33:39.428Z [info] Iniciando o ambiente development
+2024-11-19T09:33:39.431Z [info] Server rodando na porta 8080
+2024-11-19T09:33:42.113Z [info] Iniciando o ambiente development
+2024-11-19T09:33:42.116Z [info] Server rodando na porta 8080
+2024-11-19T09:33:45.403Z [info] Iniciando o ambiente development
+2024-11-19T09:33:45.405Z [info] Server rodando na porta 8080
+2024-11-19T09:33:49.020Z [info] Iniciando o ambiente development
+2024-11-19T09:33:49.024Z [info] Server rodando na porta 8080
+2024-11-19T09:33:51.706Z [info] Iniciando o ambiente development
+2024-11-19T09:33:51.709Z [info] Server rodando na porta 8080
+2024-11-19T09:33:53.538Z [info] Iniciando o ambiente development
+2024-11-19T09:33:53.541Z [info] Server rodando na porta 8080
+2024-11-19T09:34:50.077Z [info] Iniciando o ambiente development
+2024-11-19T09:34:50.081Z [info] Server rodando na porta 8080
+2024-11-19T09:35:30.787Z [info] Iniciando o ambiente development
+2024-11-19T09:35:30.790Z [info] Server rodando na porta 8080
+2024-11-19T09:35:40.709Z [info] Iniciando o ambiente development
+2024-11-19T09:35:40.712Z [info] Server rodando na porta 8080
+2024-11-19T09:35:45.880Z [debug] Requisição GET na rota /api/usuarios
+2024-11-19T09:35:47.103Z [debug] Requisição GET na rota /api/usuarios
+2024-11-19T09:37:24.201Z [info] Iniciando o ambiente development
+2024-11-19T09:37:24.204Z [info] Server rodando na porta 8080
+2024-11-19T09:37:42.953Z [info] Iniciando o ambiente development
+2024-11-19T09:37:42.956Z [info] Server rodando na porta 8080
+2024-11-19T09:37:47.375Z [info] Iniciando o ambiente development
+2024-11-19T09:37:47.379Z [info] Server rodando na porta 8080
+2024-11-19T09:37:50.102Z [info] Iniciando o ambiente development
+2024-11-19T09:37:50.105Z [info] Server rodando na porta 8080
+2024-11-19T09:37:54.281Z [info] Iniciando o ambiente development
+2024-11-19T09:37:54.284Z [info] Server rodando na porta 8080
+2024-11-19T09:37:58.575Z [info] Iniciando o ambiente development
+2024-11-19T09:37:58.578Z [info] Server rodando na porta 8080
+2024-11-19T09:38:03.097Z [info] Iniciando o ambiente development
+2024-11-19T09:38:03.100Z [info] Server rodando na porta 8080
+2024-11-19T09:38:05.528Z [info] Iniciando o ambiente development
+2024-11-19T09:38:05.531Z [info] Server rodando na porta 8080
+2024-11-19T09:38:08.255Z [info] Iniciando o ambiente development
+2024-11-19T09:38:08.258Z [info] Server rodando na porta 8080
+2024-11-19T09:38:10.774Z [info] Iniciando o ambiente development
+2024-11-19T09:38:10.777Z [info] Server rodando na porta 8080
+2024-11-19T09:38:12.831Z [info] Iniciando o ambiente development
+2024-11-19T09:38:12.834Z [info] Server rodando na porta 8080
+2024-11-19T09:38:14.342Z [info] Iniciando o ambiente development
+2024-11-19T09:38:14.345Z [info] Server rodando na porta 8080
+2024-11-19T09:38:16.123Z [info] Iniciando o ambiente development
+2024-11-19T09:38:16.126Z [info] Server rodando na porta 8080
+2024-11-19T09:38:19.338Z [info] Iniciando o ambiente development
+2024-11-19T09:38:19.340Z [info] Server rodando na porta 8080
+2024-11-19T09:38:23.011Z [info] Iniciando o ambiente development
+2024-11-19T09:38:23.014Z [info] Server rodando na porta 8080
+2024-11-19T09:38:29.329Z [info] Iniciando o ambiente development
+2024-11-19T09:38:29.331Z [info] Server rodando na porta 8080
+2024-11-19T09:38:31.079Z [info] Iniciando o ambiente development
+2024-11-19T09:38:31.082Z [info] Server rodando na porta 8080
+2024-11-19T09:38:36.780Z [info] Iniciando o ambiente development
+2024-11-19T09:38:36.783Z [info] Server rodando na porta 8080
+2024-11-19T09:38:41.577Z [info] Iniciando o ambiente development
+2024-11-19T09:38:41.580Z [info] Server rodando na porta 8080
+2024-11-19T09:38:48.013Z [info] Iniciando o ambiente development
+2024-11-19T09:38:48.016Z [info] Server rodando na porta 8080
+2024-11-19T09:38:49.317Z [info] Iniciando o ambiente development
+2024-11-19T09:38:49.321Z [info] Server rodando na porta 8080
+2024-11-19T09:38:54.708Z [info] Iniciando o ambiente development
+2024-11-19T09:38:54.711Z [info] Server rodando na porta 8080
+2024-11-19T09:38:57.523Z [info] Iniciando o ambiente development
+2024-11-19T09:38:57.526Z [info] Server rodando na porta 8080
+2024-11-19T09:39:01.753Z [info] Iniciando o ambiente development
+2024-11-19T09:39:01.757Z [info] Server rodando na porta 8080
+2024-11-19T09:39:05.911Z [info] Iniciando o ambiente development
+2024-11-19T09:39:05.914Z [info] Server rodando na porta 8080
+2024-11-19T09:39:18.864Z [info] Iniciando o ambiente development
+2024-11-19T09:39:18.867Z [info] Server rodando na porta 8080
+2024-11-19T09:39:26.323Z [info] Iniciando o ambiente development
+2024-11-19T09:39:26.325Z [info] Server rodando na porta 8080
+2024-11-19T09:39:27.740Z [info] Iniciando o ambiente development
+2024-11-19T09:39:27.743Z [info] Server rodando na porta 8080
+2024-11-19T09:39:31.025Z [info] Iniciando o ambiente development
+2024-11-19T09:39:31.028Z [info] Server rodando na porta 8080
+2024-11-19T09:39:33.888Z [info] Iniciando o ambiente development
+2024-11-19T09:39:33.890Z [info] Server rodando na porta 8080
+2024-11-19T09:39:35.252Z [info] Iniciando o ambiente development
+2024-11-19T09:39:35.259Z [info] Server rodando na porta 8080
+2024-11-19T09:39:37.334Z [info] Iniciando o ambiente development
+2024-11-19T09:39:37.338Z [info] Server rodando na porta 8080
+2024-11-19T09:39:38.999Z [info] Iniciando o ambiente development
+2024-11-19T09:39:39.002Z [info] Server rodando na porta 8080
+2024-11-19T09:40:25.551Z [info] Iniciando o ambiente development
+2024-11-19T09:40:25.553Z [info] Server rodando na porta 8080
+2024-11-19T09:40:28.382Z [info] Iniciando o ambiente development
+2024-11-19T09:40:28.385Z [info] Server rodando na porta 8080
+2024-11-19T09:40:31.484Z [info] Iniciando o ambiente development
+2024-11-19T09:40:31.486Z [info] Server rodando na porta 8080
+2024-11-19T09:40:33.604Z [info] Iniciando o ambiente development
+2024-11-19T09:40:33.606Z [info] Server rodando na porta 8080
+2024-11-19T09:40:39.482Z [info] Iniciando o ambiente development
+2024-11-19T09:40:39.485Z [info] Server rodando na porta 8080
+2024-11-19T09:40:43.467Z [info] Iniciando o ambiente development
+2024-11-19T09:40:43.469Z [info] Server rodando na porta 8080
+2024-11-19T09:40:46.442Z [info] Iniciando o ambiente development
+2024-11-19T09:40:46.444Z [info] Server rodando na porta 8080
+2024-11-19T09:40:49.310Z [info] Iniciando o ambiente development
+2024-11-19T09:40:49.313Z [info] Server rodando na porta 8080
+2024-11-19T09:40:52.394Z [info] Iniciando o ambiente development
+2024-11-19T09:40:52.396Z [info] Server rodando na porta 8080
+2024-11-19T09:40:58.958Z [info] Iniciando o ambiente development
+2024-11-19T09:40:58.962Z [info] Server rodando na porta 8080
+2024-11-19T09:41:09.763Z [info] Iniciando o ambiente development
+2024-11-19T09:41:09.770Z [info] Server rodando na porta 8080
+2024-11-19T09:41:24.707Z [info] Iniciando o ambiente development
+2024-11-19T09:41:24.710Z [info] Server rodando na porta 8080
+2024-11-19T09:41:27.425Z [info] Iniciando o ambiente development
+2024-11-19T09:41:27.431Z [info] Server rodando na porta 8080
+2024-11-19T09:41:28.612Z [info] Iniciando o ambiente development
+2024-11-19T09:41:28.615Z [info] Server rodando na porta 8080
+2024-11-19T09:41:31.442Z [info] Iniciando o ambiente development
+2024-11-19T09:41:31.446Z [info] Server rodando na porta 8080
+2024-11-19T09:41:34.104Z [info] Iniciando o ambiente development
+2024-11-19T09:41:34.107Z [info] Server rodando na porta 8080
+2024-11-19T09:41:39.219Z [info] Iniciando o ambiente development
+2024-11-19T09:41:39.221Z [info] Server rodando na porta 8080
+2024-11-19T09:41:44.681Z [info] Iniciando o ambiente development
+2024-11-19T09:41:44.683Z [info] Server rodando na porta 8080
+2024-11-19T09:41:46.335Z [info] Iniciando o ambiente development
+2024-11-19T09:41:46.338Z [info] Server rodando na porta 8080
+2024-11-19T09:41:50.575Z [info] Iniciando o ambiente development
+2024-11-19T09:41:50.579Z [info] Server rodando na porta 8080
+2024-11-19T09:41:51.865Z [info] Iniciando o ambiente development
+2024-11-19T09:41:51.868Z [info] Server rodando na porta 8080
+2024-11-19T09:42:27.282Z [debug] Requisição GET na rota /api/usuarios/6
+2024-11-19T09:42:40.625Z [info] Iniciando o ambiente development
+2024-11-19T09:42:40.628Z [info] Server rodando na porta 8080
+2024-11-19T09:42:42.647Z [info] Iniciando o ambiente development
+2024-11-19T09:42:42.650Z [info] Server rodando na porta 8080
+2024-11-19T09:42:45.397Z [info] Iniciando o ambiente development
+2024-11-19T09:42:45.400Z [info] Server rodando na porta 8080
+2024-11-19T09:42:52.874Z [info] Iniciando o ambiente development
+2024-11-19T09:42:52.877Z [info] Server rodando na porta 8080
+2024-11-19T09:42:54.499Z [info] Iniciando o ambiente development
+2024-11-19T09:42:54.502Z [info] Server rodando na porta 8080
+2024-11-19T09:42:56.268Z [info] Iniciando o ambiente development
+2024-11-19T09:42:56.273Z [info] Server rodando na porta 8080
+2024-11-19T09:43:00.831Z [info] Iniciando o ambiente development
+2024-11-19T09:43:00.836Z [info] Server rodando na porta 8080
+2024-11-19T09:43:03.769Z [info] Iniciando o ambiente development
+2024-11-19T09:43:03.772Z [info] Server rodando na porta 8080
+2024-11-19T09:43:05.187Z [info] Iniciando o ambiente development
+2024-11-19T09:43:05.189Z [info] Server rodando na porta 8080
+2024-11-19T09:43:07.706Z [info] Iniciando o ambiente development
+2024-11-19T09:43:07.709Z [info] Server rodando na porta 8080
+2024-11-19T09:43:10.341Z [info] Iniciando o ambiente development
+2024-11-19T09:43:10.345Z [info] Server rodando na porta 8080
+2024-11-19T09:43:17.575Z [info] Iniciando o ambiente development
+2024-11-19T09:43:17.578Z [info] Server rodando na porta 8080
+2024-11-19T09:43:30.807Z [info] Iniciando o ambiente development
+2024-11-19T09:43:30.809Z [info] Server rodando na porta 8080
+2024-11-19T09:43:35.120Z [info] Iniciando o ambiente development
+2024-11-19T09:43:35.123Z [info] Server rodando na porta 8080
+2024-11-19T09:43:37.257Z [info] Iniciando o ambiente development
+2024-11-19T09:43:37.260Z [info] Server rodando na porta 8080
+2024-11-19T09:43:39.647Z [info] Iniciando o ambiente development
+2024-11-19T09:43:39.650Z [info] Server rodando na porta 8080
+2024-11-19T09:43:42.213Z [info] Iniciando o ambiente development
+2024-11-19T09:43:42.219Z [info] Server rodando na porta 8080
+2024-11-19T09:43:53.543Z [info] Iniciando o ambiente development
+2024-11-19T09:43:53.545Z [info] Server rodando na porta 8080
+2024-11-19T09:43:55.736Z [info] Iniciando o ambiente development
+2024-11-19T09:43:55.739Z [info] Server rodando na porta 8080
+2024-11-19T09:44:04.774Z [info] Iniciando o ambiente development
+2024-11-19T09:44:04.778Z [info] Server rodando na porta 8080
+2024-11-19T09:44:06.434Z [info] Iniciando o ambiente development
+2024-11-19T09:44:06.437Z [info] Server rodando na porta 8080
+2024-11-19T09:44:10.444Z [info] Iniciando o ambiente development
+2024-11-19T09:44:10.447Z [info] Server rodando na porta 8080
+2024-11-19T09:44:14.996Z [info] Iniciando o ambiente development
+2024-11-19T09:44:14.999Z [info] Server rodando na porta 8080
+2024-11-19T09:44:17.939Z [info] Iniciando o ambiente development
+2024-11-19T09:44:17.942Z [info] Server rodando na porta 8080
+2024-11-19T09:44:19.583Z [info] Iniciando o ambiente development
+2024-11-19T09:44:19.586Z [info] Server rodando na porta 8080
+2024-11-19T09:44:22.131Z [info] Iniciando o ambiente development
+2024-11-19T09:44:22.134Z [info] Server rodando na porta 8080
+2024-11-19T09:44:33.685Z [info] Iniciando o ambiente development
+2024-11-19T09:44:33.688Z [info] Server rodando na porta 8080
+2024-11-19T09:44:43.422Z [info] Iniciando o ambiente development
+2024-11-19T09:44:43.426Z [info] Server rodando na porta 8080
+2024-11-19T09:44:45.759Z [info] Iniciando o ambiente development
+2024-11-19T09:44:45.761Z [info] Server rodando na porta 8080
+2024-11-19T09:44:48.976Z [info] Iniciando o ambiente development
+2024-11-19T09:44:48.979Z [info] Server rodando na porta 8080
+2024-11-19T09:44:51.571Z [info] Iniciando o ambiente development
+2024-11-19T09:44:51.573Z [info] Server rodando na porta 8080
+2024-11-19T09:44:53.439Z [info] Iniciando o ambiente development
+2024-11-19T09:44:53.442Z [info] Server rodando na porta 8080
+2024-11-19T09:44:56.766Z [info] Iniciando o ambiente development
+2024-11-19T09:44:56.773Z [info] Server rodando na porta 8080
+2024-11-19T09:45:08.225Z [info] Iniciando o ambiente development
+2024-11-19T09:45:08.228Z [info] Server rodando na porta 8080
+2024-11-19T09:45:09.948Z [info] Iniciando o ambiente development
+2024-11-19T09:45:09.950Z [info] Server rodando na porta 8080
+2024-11-19T09:45:11.004Z [info] Iniciando o ambiente development
+2024-11-19T09:45:11.006Z [info] Server rodando na porta 8080
+2024-11-19T09:45:12.733Z [info] Iniciando o ambiente development
+2024-11-19T09:45:12.736Z [info] Server rodando na porta 8080
+2024-11-19T09:45:19.172Z [info] Iniciando o ambiente development
+2024-11-19T09:45:19.175Z [info] Server rodando na porta 8080
+2024-11-19T09:45:25.352Z [info] Iniciando o ambiente development
+2024-11-19T09:45:25.354Z [info] Server rodando na porta 8080
+2024-11-19T09:45:29.655Z [info] Iniciando o ambiente development
+2024-11-19T09:45:29.658Z [info] Server rodando na porta 8080
+2024-11-19T09:45:32.387Z [info] Iniciando o ambiente development
+2024-11-19T09:45:32.391Z [info] Server rodando na porta 8080
+2024-11-19T09:45:44.317Z [info] Iniciando o ambiente development
+2024-11-19T09:45:44.321Z [info] Server rodando na porta 8080
+2024-11-19T09:45:45.750Z [info] Iniciando o ambiente development
+2024-11-19T09:45:45.753Z [info] Server rodando na porta 8080
+2024-11-19T09:45:48.706Z [info] Iniciando o ambiente development
+2024-11-19T09:45:48.709Z [info] Server rodando na porta 8080
+2024-11-19T09:45:53.641Z [info] Iniciando o ambiente development
+2024-11-19T09:45:53.644Z [info] Server rodando na porta 8080
+2024-11-19T09:45:55.656Z [info] Iniciando o ambiente development
+2024-11-19T09:45:55.660Z [info] Server rodando na porta 8080
+2024-11-19T09:46:55.110Z [debug] Requisição GET na rota /api/usuarios/5
+2024-11-19T09:47:09.476Z [info] Iniciando o ambiente development
+2024-11-19T09:47:09.479Z [info] Server rodando na porta 8080
+2024-11-19T09:47:13.104Z [info] Iniciando o ambiente development
+2024-11-19T09:47:13.106Z [info] Server rodando na porta 8080
+2024-11-19T09:47:15.804Z [info] Iniciando o ambiente development
+2024-11-19T09:47:15.808Z [info] Server rodando na porta 8080
+2024-11-19T09:47:18.585Z [info] Iniciando o ambiente development
+2024-11-19T09:47:18.587Z [info] Server rodando na porta 8080
+2024-11-19T09:47:26.024Z [info] Iniciando o ambiente development
+2024-11-19T09:47:26.027Z [info] Server rodando na porta 8080
+2024-11-19T09:47:31.854Z [info] Iniciando o ambiente development
+2024-11-19T09:47:31.857Z [info] Server rodando na porta 8080
+2024-11-19T09:47:33.046Z [info] Iniciando o ambiente development
+2024-11-19T09:47:33.048Z [info] Server rodando na porta 8080
+2024-11-19T09:47:34.815Z [info] Iniciando o ambiente development
+2024-11-19T09:47:34.817Z [info] Server rodando na porta 8080
+2024-11-19T09:47:36.789Z [info] Iniciando o ambiente development
+2024-11-19T09:47:36.791Z [info] Server rodando na porta 8080
+2024-11-19T09:47:39.257Z [info] Iniciando o ambiente development
+2024-11-19T09:47:39.260Z [info] Server rodando na porta 8080
+2024-11-19T09:47:43.727Z [info] Iniciando o ambiente development
+2024-11-19T09:47:43.731Z [info] Server rodando na porta 8080
+2024-11-19T09:47:48.082Z [info] Iniciando o ambiente development
+2024-11-19T09:47:48.087Z [info] Server rodando na porta 8080
+2024-11-19T09:48:05.107Z [info] Iniciando o ambiente development
+2024-11-19T09:48:05.114Z [info] Server rodando na porta 8080
+2024-11-19T09:48:06.904Z [info] Iniciando o ambiente development
+2024-11-19T09:48:06.906Z [info] Server rodando na porta 8080
+2024-11-19T09:48:13.266Z [info] Iniciando o ambiente development
+2024-11-19T09:48:13.269Z [info] Server rodando na porta 8080
+2024-11-19T09:48:21.899Z [info] Iniciando o ambiente development
+2024-11-19T09:48:21.902Z [info] Server rodando na porta 8080
+2024-11-19T09:48:27.477Z [info] Iniciando o ambiente development
+2024-11-19T09:48:27.480Z [info] Server rodando na porta 8080
+2024-11-19T09:48:29.157Z [info] Iniciando o ambiente development
+2024-11-19T09:48:29.163Z [info] Server rodando na porta 8080
+2024-11-19T09:48:31.212Z [info] Iniciando o ambiente development
+2024-11-19T09:48:31.215Z [info] Server rodando na porta 8080
+2024-11-19T09:48:50.027Z [info] Iniciando o ambiente development
+2024-11-19T09:48:50.030Z [info] Server rodando na porta 8080
+2024-11-19T09:48:51.982Z [info] Iniciando o ambiente development
+2024-11-19T09:48:51.985Z [info] Server rodando na porta 8080
+2024-11-19T09:49:15.403Z [info] Iniciando o ambiente development
+2024-11-19T09:49:15.406Z [info] Server rodando na porta 8080
+2024-11-19T09:49:38.935Z [info] Iniciando o ambiente development
+2024-11-19T09:49:38.937Z [info] Server rodando na porta 8080
+2024-11-19T09:50:10.114Z [debug] Requisição GET na rota /api/usuarios/5
+2024-11-19T09:52:05.065Z [info] Iniciando o ambiente development
+2024-11-19T09:52:05.068Z [info] Server rodando na porta 8080
+2024-11-19T09:52:06.628Z [info] Iniciando o ambiente development
+2024-11-19T09:52:06.630Z [info] Server rodando na porta 8080
+2024-11-19T09:52:14.183Z [info] Iniciando o ambiente development
+2024-11-19T09:52:14.185Z [info] Server rodando na porta 8080
+2024-11-19T09:52:17.257Z [info] Iniciando o ambiente development
+2024-11-19T09:52:17.259Z [info] Server rodando na porta 8080
+2024-11-19T09:52:18.794Z [info] Iniciando o ambiente development
+2024-11-19T09:52:18.796Z [info] Server rodando na porta 8080
+2024-11-19T09:52:23.951Z [info] Iniciando o ambiente development
+2024-11-19T09:52:23.953Z [info] Server rodando na porta 8080
+2024-11-19T09:52:27.317Z [info] Iniciando o ambiente development
+2024-11-19T09:52:27.320Z [info] Server rodando na porta 8080
+2024-11-19T09:52:34.677Z [info] Iniciando o ambiente development
+2024-11-19T09:52:34.680Z [info] Server rodando na porta 8080
+2024-11-19T09:52:37.600Z [info] Iniciando o ambiente development
+2024-11-19T09:52:37.603Z [info] Server rodando na porta 8080
+2024-11-19T09:52:40.021Z [info] Iniciando o ambiente development
+2024-11-19T09:52:40.024Z [info] Server rodando na porta 8080
+2024-11-19T09:52:42.374Z [info] Iniciando o ambiente development
+2024-11-19T09:52:42.376Z [info] Server rodando na porta 8080
+2024-11-19T09:52:44.385Z [info] Iniciando o ambiente development
+2024-11-19T09:52:44.388Z [info] Server rodando na porta 8080
+2024-11-19T09:52:49.254Z [info] Iniciando o ambiente development
+2024-11-19T09:52:49.256Z [info] Server rodando na porta 8080
+2024-11-19T09:52:50.757Z [info] Iniciando o ambiente development
+2024-11-19T09:52:50.760Z [info] Server rodando na porta 8080
+2024-11-19T09:52:53.189Z [info] Iniciando o ambiente development
+2024-11-19T09:52:53.191Z [info] Server rodando na porta 8080
+2024-11-19T09:52:55.124Z [info] Iniciando o ambiente development
+2024-11-19T09:52:55.127Z [info] Server rodando na porta 8080
+2024-11-19T09:52:56.453Z [info] Iniciando o ambiente development
+2024-11-19T09:52:56.455Z [info] Server rodando na porta 8080
+2024-11-19T09:52:59.923Z [info] Iniciando o ambiente development
+2024-11-19T09:52:59.926Z [info] Server rodando na porta 8080
+2024-11-19T09:53:02.656Z [info] Iniciando o ambiente development
+2024-11-19T09:53:02.659Z [info] Server rodando na porta 8080
+2024-11-19T09:53:09.407Z [info] Iniciando o ambiente development
+2024-11-19T09:53:09.409Z [info] Server rodando na porta 8080
+2024-11-19T09:53:15.953Z [info] Iniciando o ambiente development
+2024-11-19T09:53:15.958Z [info] Server rodando na porta 8080
+2024-11-19T09:53:24.198Z [info] Iniciando o ambiente development
+2024-11-19T09:53:24.203Z [info] Server rodando na porta 8080
+2024-11-19T09:53:32.444Z [info] Iniciando o ambiente development
+2024-11-19T09:53:32.447Z [info] Server rodando na porta 8080
+2024-11-19T09:53:34.456Z [info] Iniciando o ambiente development
+2024-11-19T09:53:34.459Z [info] Server rodando na porta 8080
+2024-11-19T09:53:58.471Z [info] Iniciando o ambiente development
+2024-11-19T09:53:58.474Z [info] Server rodando na porta 8080
+2024-11-19T09:54:18.581Z [info] Iniciando o ambiente development
+2024-11-19T09:54:18.584Z [info] Server rodando na porta 8080
+2024-11-19T09:54:25.701Z [info] Iniciando o ambiente development
+2024-11-19T09:54:25.704Z [info] Server rodando na porta 8080
+2024-11-19T09:54:28.657Z [info] Iniciando o ambiente development
+2024-11-19T09:54:28.659Z [info] Server rodando na porta 8080
+2024-11-19T09:54:33.765Z [info] Iniciando o ambiente development
+2024-11-19T09:54:33.767Z [info] Server rodando na porta 8080
+2024-11-19T09:54:39.442Z [info] Iniciando o ambiente development
+2024-11-19T09:54:39.446Z [info] Server rodando na porta 8080
+2024-11-19T09:54:46.527Z [info] Iniciando o ambiente development
+2024-11-19T09:54:46.529Z [info] Server rodando na porta 8080
+2024-11-19T09:54:50.668Z [info] Iniciando o ambiente development
+2024-11-19T09:54:50.670Z [info] Server rodando na porta 8080
+2024-11-19T09:54:59.777Z [info] Iniciando o ambiente development
+2024-11-19T09:54:59.779Z [info] Server rodando na porta 8080
+2024-11-19T09:55:22.001Z [info] Iniciando o ambiente development
+2024-11-19T09:55:22.004Z [info] Server rodando na porta 8080
+2024-11-19T09:55:28.208Z [info] Iniciando o ambiente development
+2024-11-19T09:55:28.210Z [info] Server rodando na porta 8080
+2024-11-19T09:55:31.273Z [info] Iniciando o ambiente development
+2024-11-19T09:55:31.275Z [info] Server rodando na porta 8080
+2024-11-19T09:55:34.437Z [info] Iniciando o ambiente development
+2024-11-19T09:55:34.439Z [info] Server rodando na porta 8080
+2024-11-19T09:55:38.864Z [info] Iniciando o ambiente development
+2024-11-19T09:55:38.866Z [info] Server rodando na porta 8080
+2024-11-19T09:55:41.667Z [info] Iniciando o ambiente development
+2024-11-19T09:55:41.669Z [info] Server rodando na porta 8080
+2024-11-19T09:55:43.155Z [info] Iniciando o ambiente development
+2024-11-19T09:55:43.157Z [info] Server rodando na porta 8080
+2024-11-19T09:55:58.707Z [info] Iniciando o ambiente development
+2024-11-19T09:55:58.709Z [info] Server rodando na porta 8080
+2024-11-19T09:55:59.715Z [info] Iniciando o ambiente development
+2024-11-19T09:55:59.717Z [info] Server rodando na porta 8080
+2024-11-19T09:56:04.595Z [info] Iniciando o ambiente development
+2024-11-19T09:56:04.597Z [info] Server rodando na porta 8080
+2024-11-19T09:56:06.152Z [info] Iniciando o ambiente development
+2024-11-19T09:56:06.155Z [info] Server rodando na porta 8080
+2024-11-19T09:56:11.466Z [info] Iniciando o ambiente development
+2024-11-19T09:56:11.469Z [info] Server rodando na porta 8080
+2024-11-19T09:56:19.276Z [info] Iniciando o ambiente development
+2024-11-19T09:56:19.278Z [info] Server rodando na porta 8080
+2024-11-19T09:56:21.554Z [info] Iniciando o ambiente development
+2024-11-19T09:56:21.557Z [info] Server rodando na porta 8080
+2024-11-19T09:56:24.749Z [info] Iniciando o ambiente development
+2024-11-19T09:56:24.752Z [info] Server rodando na porta 8080
+2024-11-19T09:56:31.289Z [info] Iniciando o ambiente development
+2024-11-19T09:56:31.291Z [info] Server rodando na porta 8080
+2024-11-19T09:56:33.955Z [info] Iniciando o ambiente development
+2024-11-19T09:56:33.957Z [info] Server rodando na porta 8080
+2024-11-19T09:56:36.396Z [info] Iniciando o ambiente development
+2024-11-19T09:56:36.399Z [info] Server rodando na porta 8080
+2024-11-19T09:56:39.592Z [info] Iniciando o ambiente development
+2024-11-19T09:56:39.594Z [info] Server rodando na porta 8080
+2024-11-19T09:56:40.944Z [info] Iniciando o ambiente development
+2024-11-19T09:56:40.947Z [info] Server rodando na porta 8080
+2024-11-19T09:56:42.622Z [info] Iniciando o ambiente development
+2024-11-19T09:56:42.624Z [info] Server rodando na porta 8080
+2024-11-19T09:56:45.422Z [info] Iniciando o ambiente development
+2024-11-19T09:56:45.424Z [info] Server rodando na porta 8080
+2024-11-19T09:56:48.506Z [info] Iniciando o ambiente development
+2024-11-19T09:56:48.508Z [info] Server rodando na porta 8080
+2024-11-19T09:56:52.418Z [info] Iniciando o ambiente development
+2024-11-19T09:56:52.420Z [info] Server rodando na porta 8080
+2024-11-19T09:56:53.435Z [info] Iniciando o ambiente development
+2024-11-19T09:56:53.437Z [info] Server rodando na porta 8080
+2024-11-19T09:56:56.771Z [info] Iniciando o ambiente development
+2024-11-19T09:56:56.775Z [info] Server rodando na porta 8080
+2024-11-19T09:57:01.237Z [info] Iniciando o ambiente development
+2024-11-19T09:57:01.241Z [info] Server rodando na porta 8080
+2024-11-19T09:57:41.061Z [info] Iniciando o ambiente development
+2024-11-19T09:57:41.063Z [info] Server rodando na porta 8080
+2024-11-19T09:57:42.513Z [info] Iniciando o ambiente development
+2024-11-19T09:57:42.516Z [info] Server rodando na porta 8080
+2024-11-19T09:57:52.625Z [info] Iniciando o ambiente development
+2024-11-19T09:57:52.628Z [info] Server rodando na porta 8080
+2024-11-19T09:57:55.882Z [info] Iniciando o ambiente development
+2024-11-19T09:57:55.885Z [info] Server rodando na porta 8080
+2024-11-19T09:57:58.951Z [info] Iniciando o ambiente development
+2024-11-19T09:57:58.953Z [info] Server rodando na porta 8080
+2024-11-19T09:58:01.355Z [info] Iniciando o ambiente development
+2024-11-19T09:58:01.358Z [info] Server rodando na porta 8080
+2024-11-19T09:58:02.985Z [info] Iniciando o ambiente development
+2024-11-19T09:58:02.990Z [info] Server rodando na porta 8080
+2024-11-19T10:16:52.197Z [info] Iniciando o ambiente development
+2024-11-19T10:16:52.198Z [info] Server rodando na porta 8080
+2024-11-19T10:18:34.171Z [info] Iniciando o ambiente development
+2024-11-19T10:18:34.173Z [info] Server rodando na porta 8080
+2024-11-19T10:18:35.375Z [info] Iniciando o ambiente development
+2024-11-19T10:18:35.378Z [info] Server rodando na porta 8080
+2024-11-19T10:18:55.740Z [info] Iniciando o ambiente development
+2024-11-19T10:18:55.742Z [info] Server rodando na porta 8080
+2024-11-19T10:19:01.691Z [info] Iniciando o ambiente development
+2024-11-19T10:19:01.693Z [info] Server rodando na porta 8080
+2024-11-19T10:19:03.132Z [info] Iniciando o ambiente development
+2024-11-19T10:19:03.134Z [info] Server rodando na porta 8080
+2024-11-19T10:19:41.531Z [info] Iniciando o ambiente development
+2024-11-19T10:19:41.534Z [info] Server rodando na porta 8080
+2024-11-19T10:19:43.383Z [info] Iniciando o ambiente development
+2024-11-19T10:19:43.385Z [info] Server rodando na porta 8080
+2024-11-19T10:19:51.552Z [info] Iniciando o ambiente development
+2024-11-19T10:19:51.554Z [info] Server rodando na porta 8080
+2024-11-19T10:20:40.115Z [info] Iniciando o ambiente development
+2024-11-19T10:20:40.117Z [info] Server rodando na porta 8080
+2024-11-19T10:20:42.577Z [info] Iniciando o ambiente development
+2024-11-19T10:20:42.579Z [info] Server rodando na porta 8080
+2024-11-19T10:20:54.649Z [info] Iniciando o ambiente development
+2024-11-19T10:20:54.651Z [info] Server rodando na porta 8080
+2024-11-19T10:21:00.676Z [info] Iniciando o ambiente development
+2024-11-19T10:21:00.678Z [info] Server rodando na porta 8080
+2024-11-19T10:21:02.690Z [info] Iniciando o ambiente development
+2024-11-19T10:21:02.692Z [info] Server rodando na porta 8080
+2024-11-19T10:21:03.749Z [info] Iniciando o ambiente development
+2024-11-19T10:21:03.751Z [info] Server rodando na porta 8080
+2024-11-19T10:21:07.054Z [info] Iniciando o ambiente development
+2024-11-19T10:21:07.056Z [info] Server rodando na porta 8080
+2024-11-19T10:21:12.672Z [info] Iniciando o ambiente development
+2024-11-19T10:21:12.673Z [info] Server rodando na porta 8080
+2024-11-19T10:21:14.140Z [info] Iniciando o ambiente development
+2024-11-19T10:21:14.142Z [info] Server rodando na porta 8080
+2024-11-19T10:21:16.775Z [info] Iniciando o ambiente development
+2024-11-19T10:21:16.777Z [info] Server rodando na porta 8080
+2024-11-19T10:21:18.191Z [info] Iniciando o ambiente development
+2024-11-19T10:21:18.193Z [info] Server rodando na porta 8080
+2024-11-19T10:21:20.122Z [info] Iniciando o ambiente development
+2024-11-19T10:21:20.124Z [info] Server rodando na porta 8080
+2024-11-19T10:21:26.201Z [info] Iniciando o ambiente development
+2024-11-19T10:21:26.204Z [info] Server rodando na porta 8080
+2024-11-19T10:21:27.976Z [info] Iniciando o ambiente development
+2024-11-19T10:21:27.978Z [info] Server rodando na porta 8080
+2024-11-19T10:21:32.888Z [info] Iniciando o ambiente development
+2024-11-19T10:21:32.891Z [info] Server rodando na porta 8080
+2024-11-19T10:22:07.432Z [info] Iniciando o ambiente development
+2024-11-19T10:22:07.434Z [info] Server rodando na porta 8080
+2024-11-19T10:22:13.212Z [info] Iniciando o ambiente development
+2024-11-19T10:22:13.214Z [info] Server rodando na porta 8080
+2024-11-19T10:22:17.078Z [info] Iniciando o ambiente development
+2024-11-19T10:22:17.080Z [info] Server rodando na porta 8080
+2024-11-19T10:22:20.859Z [info] Iniciando o ambiente development
+2024-11-19T10:22:20.861Z [info] Server rodando na porta 8080
+2024-11-19T10:22:21.895Z [info] Iniciando o ambiente development
+2024-11-19T10:22:21.897Z [info] Server rodando na porta 8080
+2024-11-19T10:22:26.174Z [info] Iniciando o ambiente development
+2024-11-19T10:22:26.176Z [info] Server rodando na porta 8080
+2024-11-19T10:22:31.051Z [info] Iniciando o ambiente development
+2024-11-19T10:22:31.053Z [info] Server rodando na porta 8080
+2024-11-19T10:22:32.448Z [info] Iniciando o ambiente development
+2024-11-19T10:22:32.450Z [info] Server rodando na porta 8080
+2024-11-19T10:22:37.242Z [info] Iniciando o ambiente development
+2024-11-19T10:22:37.244Z [info] Server rodando na porta 8080
+2024-11-19T10:22:38.805Z [info] Iniciando o ambiente development
+2024-11-19T10:22:38.807Z [info] Server rodando na porta 8080
+2024-11-19T10:22:41.359Z [info] Iniciando o ambiente development
+2024-11-19T10:22:41.361Z [info] Server rodando na porta 8080
+2024-11-19T10:22:46.852Z [info] Iniciando o ambiente development
+2024-11-19T10:22:46.854Z [info] Server rodando na porta 8080
+2024-11-19T10:22:52.624Z [info] Iniciando o ambiente development
+2024-11-19T10:22:52.626Z [info] Server rodando na porta 8080
+2024-11-19T10:23:08.246Z [info] Iniciando o ambiente development
+2024-11-19T10:23:08.248Z [info] Server rodando na porta 8080
+2024-11-19T10:23:14.198Z [info] Iniciando o ambiente development
+2024-11-19T10:23:14.200Z [info] Server rodando na porta 8080
+2024-11-19T10:23:17.322Z [info] Iniciando o ambiente development
+2024-11-19T10:23:17.325Z [info] Server rodando na porta 8080
+2024-11-19T10:23:21.266Z [info] Iniciando o ambiente development
+2024-11-19T10:23:21.268Z [info] Server rodando na porta 8080
+2024-11-19T10:23:23.272Z [info] Iniciando o ambiente development
+2024-11-19T10:23:23.275Z [info] Server rodando na porta 8080
+2024-11-19T10:23:26.965Z [info] Iniciando o ambiente development
+2024-11-19T10:23:26.967Z [info] Server rodando na porta 8080
+2024-11-19T10:23:28.829Z [info] Iniciando o ambiente development
+2024-11-19T10:23:28.831Z [info] Server rodando na porta 8080
+2024-11-19T10:23:30.570Z [info] Iniciando o ambiente development
+2024-11-19T10:23:30.573Z [info] Server rodando na porta 8080
+2024-11-19T10:23:36.043Z [info] Iniciando o ambiente development
+2024-11-19T10:23:36.045Z [info] Server rodando na porta 8080
+2024-11-19T10:23:38.690Z [info] Iniciando o ambiente development
+2024-11-19T10:23:38.692Z [info] Server rodando na porta 8080
+2024-11-19T10:23:41.075Z [info] Iniciando o ambiente development
+2024-11-19T10:23:41.077Z [info] Server rodando na porta 8080
+2024-11-19T10:23:43.168Z [info] Iniciando o ambiente development
+2024-11-19T10:23:43.170Z [info] Server rodando na porta 8080
+2024-11-19T10:23:46.654Z [info] Iniciando o ambiente development
+2024-11-19T10:23:46.657Z [info] Server rodando na porta 8080
+2024-11-19T10:23:49.356Z [info] Iniciando o ambiente development
+2024-11-19T10:23:49.359Z [info] Server rodando na porta 8080
+2024-11-19T10:23:54.632Z [info] Iniciando o ambiente development
+2024-11-19T10:23:54.634Z [info] Server rodando na porta 8080
+2024-11-19T10:24:00.464Z [info] Iniciando o ambiente development
+2024-11-19T10:24:00.466Z [info] Server rodando na porta 8080
+2024-11-19T10:24:05.327Z [info] Iniciando o ambiente development
+2024-11-19T10:24:05.330Z [info] Server rodando na porta 8080
+2024-11-19T10:24:16.650Z [info] Iniciando o ambiente development
+2024-11-19T10:24:16.652Z [info] Server rodando na porta 8080
+2024-11-19T10:24:18.973Z [info] Iniciando o ambiente development
+2024-11-19T10:24:18.974Z [info] Server rodando na porta 8080
+2024-11-19T10:24:20.888Z [info] Iniciando o ambiente development
+2024-11-19T10:24:20.890Z [info] Server rodando na porta 8080
+2024-11-19T10:24:24.144Z [info] Iniciando o ambiente development
+2024-11-19T10:24:24.146Z [info] Server rodando na porta 8080
+2024-11-19T10:24:32.945Z [info] Iniciando o ambiente development
+2024-11-19T10:24:32.948Z [info] Server rodando na porta 8080
+2024-11-19T10:24:34.490Z [info] Iniciando o ambiente development
+2024-11-19T10:24:34.492Z [info] Server rodando na porta 8080
+2024-11-19T10:24:40.225Z [info] Iniciando o ambiente development
+2024-11-19T10:24:40.227Z [info] Server rodando na porta 8080
+2024-11-19T10:26:45.627Z [info] Iniciando o ambiente development
+2024-11-19T10:26:45.629Z [info] Server rodando na porta 8080
+2024-11-19T10:26:47.650Z [info] Iniciando o ambiente development
+2024-11-19T10:26:47.652Z [info] Server rodando na porta 8080
+2024-11-19T10:26:49.916Z [info] Iniciando o ambiente development
+2024-11-19T10:26:49.917Z [info] Server rodando na porta 8080
+2024-11-19T10:26:54.442Z [info] Iniciando o ambiente development
+2024-11-19T10:26:54.443Z [info] Server rodando na porta 8080
+2024-11-19T10:27:00.987Z [info] Iniciando o ambiente development
+2024-11-19T10:27:00.989Z [info] Server rodando na porta 8080
+2024-11-19T10:27:04.566Z [info] Iniciando o ambiente development
+2024-11-19T10:27:04.572Z [info] Server rodando na porta 8080
+2024-11-19T10:27:06.499Z [info] Iniciando o ambiente development
+2024-11-19T10:27:06.501Z [info] Server rodando na porta 8080
+2024-11-19T10:27:10.463Z [info] Iniciando o ambiente development
+2024-11-19T10:27:10.465Z [info] Server rodando na porta 8080
+2024-11-19T10:27:12.621Z [info] Iniciando o ambiente development
+2024-11-19T10:27:12.623Z [info] Server rodando na porta 8080
+2024-11-19T10:27:17.935Z [info] Iniciando o ambiente development
+2024-11-19T10:27:17.936Z [info] Server rodando na porta 8080
+2024-11-19T10:27:22.285Z [info] Iniciando o ambiente development
+2024-11-19T10:27:22.287Z [info] Server rodando na porta 8080
+2024-11-19T10:27:25.194Z [info] Iniciando o ambiente development
+2024-11-19T10:27:25.196Z [info] Server rodando na porta 8080
+2024-11-19T10:27:27.837Z [info] Iniciando o ambiente development
+2024-11-19T10:27:27.839Z [info] Server rodando na porta 8080
+2024-11-19T10:27:31.475Z [info] Iniciando o ambiente development
+2024-11-19T10:27:31.477Z [info] Server rodando na porta 8080
+2024-11-19T10:27:33.869Z [info] Iniciando o ambiente development
+2024-11-19T10:27:33.871Z [info] Server rodando na porta 8080
+2024-11-19T10:27:35.544Z [info] Iniciando o ambiente development
+2024-11-19T10:27:35.546Z [info] Server rodando na porta 8080
+2024-11-19T10:27:39.399Z [info] Iniciando o ambiente development
+2024-11-19T10:27:39.402Z [info] Server rodando na porta 8080
+2024-11-19T10:27:43.722Z [info] Iniciando o ambiente development
+2024-11-19T10:27:43.725Z [info] Server rodando na porta 8080
+2024-11-19T10:27:49.666Z [info] Iniciando o ambiente development
+2024-11-19T10:27:49.668Z [info] Server rodando na porta 8080
+2024-11-19T10:28:09.807Z [debug] Requisição POST na rota /api/usuarios/login
+2024-11-19T10:28:31.780Z [info] Iniciando o ambiente development
+2024-11-19T10:28:31.782Z [info] Server rodando na porta 8080
+2024-11-19T10:28:49.228Z [info] Iniciando o ambiente development
+2024-11-19T10:28:49.230Z [info] Server rodando na porta 8080
+2024-11-19T10:28:52.402Z [info] Iniciando o ambiente development
+2024-11-19T10:28:52.404Z [info] Server rodando na porta 8080
+2024-11-19T10:28:54.010Z [info] Iniciando o ambiente development
+2024-11-19T10:28:54.012Z [info] Server rodando na porta 8080
+2024-11-19T10:29:06.190Z [info] Iniciando o ambiente development
+2024-11-19T10:29:06.192Z [info] Server rodando na porta 8080
+2024-11-19T10:29:32.803Z [info] Iniciando o ambiente development
+2024-11-19T10:29:32.805Z [info] Server rodando na porta 8080
+2024-11-19T10:29:39.702Z [info] Iniciando o ambiente development
+2024-11-19T10:29:39.704Z [info] Server rodando na porta 8080
+2024-11-19T10:29:41.096Z [info] Iniciando o ambiente development
+2024-11-19T10:29:41.098Z [info] Server rodando na porta 8080
+2024-11-19T10:29:43.310Z [info] Iniciando o ambiente development
+2024-11-19T10:29:43.312Z [info] Server rodando na porta 8080
+2024-11-19T10:29:45.586Z [info] Iniciando o ambiente development
+2024-11-19T10:29:45.588Z [info] Server rodando na porta 8080
+2024-11-19T10:29:48.486Z [info] Iniciando o ambiente development
+2024-11-19T10:29:48.488Z [info] Server rodando na porta 8080
+2024-11-19T10:29:50.751Z [info] Iniciando o ambiente development
+2024-11-19T10:29:50.753Z [info] Server rodando na porta 8080
+2024-11-19T10:29:54.866Z [info] Iniciando o ambiente development
+2024-11-19T10:29:54.868Z [info] Server rodando na porta 8080
+2024-11-19T10:29:56.804Z [info] Iniciando o ambiente development
+2024-11-19T10:29:56.806Z [info] Server rodando na porta 8080
+2024-11-19T10:30:05.941Z [info] Iniciando o ambiente development
+2024-11-19T10:30:05.943Z [info] Server rodando na porta 8080
+2024-11-19T10:30:09.284Z [info] Iniciando o ambiente development
+2024-11-19T10:30:09.286Z [info] Server rodando na porta 8080
+2024-11-19T10:30:12.025Z [info] Iniciando o ambiente development
+2024-11-19T10:30:12.027Z [info] Server rodando na porta 8080
+2024-11-19T10:30:13.875Z [info] Iniciando o ambiente development
+2024-11-19T10:30:13.877Z [info] Server rodando na porta 8080
+2024-11-19T10:30:17.953Z [info] Iniciando o ambiente development
+2024-11-19T10:30:17.955Z [info] Server rodando na porta 8080
+2024-11-19T10:30:25.302Z [info] Iniciando o ambiente development
+2024-11-19T10:30:25.304Z [info] Server rodando na porta 8080
+2024-11-19T10:30:29.057Z [info] Iniciando o ambiente development
+2024-11-19T10:30:29.059Z [info] Server rodando na porta 8080
+2024-11-19T10:30:30.102Z [info] Iniciando o ambiente development
+2024-11-19T10:30:30.104Z [info] Server rodando na porta 8080
+2024-11-19T10:30:33.422Z [info] Iniciando o ambiente development
+2024-11-19T10:30:33.424Z [info] Server rodando na porta 8080
+2024-11-19T10:30:35.461Z [info] Iniciando o ambiente development
+2024-11-19T10:30:35.463Z [info] Server rodando na porta 8080
+2024-11-19T10:30:37.783Z [info] Iniciando o ambiente development
+2024-11-19T10:30:37.785Z [info] Server rodando na porta 8080
+2024-11-19T10:30:41.558Z [info] Iniciando o ambiente development
+2024-11-19T10:30:41.560Z [info] Server rodando na porta 8080
+2024-11-19T10:30:42.931Z [info] Iniciando o ambiente development
+2024-11-19T10:30:42.933Z [info] Server rodando na porta 8080
+2024-11-19T10:30:44.436Z [info] Iniciando o ambiente development
+2024-11-19T10:30:44.438Z [info] Server rodando na porta 8080
+2024-11-19T10:30:47.852Z [info] Iniciando o ambiente development
+2024-11-19T10:30:47.854Z [info] Server rodando na porta 8080
+2024-11-19T10:30:53.385Z [info] Iniciando o ambiente development
+2024-11-19T10:30:53.387Z [info] Server rodando na porta 8080
+2024-11-19T10:30:54.624Z [info] Iniciando o ambiente development
+2024-11-19T10:30:54.627Z [info] Server rodando na porta 8080
+2024-11-19T10:30:56.489Z [info] Iniciando o ambiente development
+2024-11-19T10:30:56.491Z [info] Server rodando na porta 8080
+2024-11-19T10:30:58.147Z [info] Iniciando o ambiente development
+2024-11-19T10:30:58.150Z [info] Server rodando na porta 8080
+2024-11-19T10:32:09.711Z [info] Iniciando o ambiente development
+2024-11-19T10:32:09.714Z [info] Server rodando na porta 8080
+2024-11-19T10:34:06.736Z [info] Iniciando o ambiente development
+2024-11-19T10:34:06.738Z [info] Server rodando na porta 8080
+2024-11-19T10:34:26.244Z [info] Iniciando o ambiente development
+2024-11-19T10:34:26.246Z [info] Server rodando na porta 8080
+2024-11-19T10:34:27.349Z [info] Iniciando o ambiente development
+2024-11-19T10:34:27.350Z [info] Server rodando na porta 8080
+2024-11-19T10:34:30.407Z [info] Iniciando o ambiente development
+2024-11-19T10:34:30.409Z [info] Server rodando na porta 8080
+2024-11-19T10:34:49.940Z [info] Iniciando o ambiente development
+2024-11-19T10:34:49.942Z [info] Server rodando na porta 8080
+2024-11-19T10:34:51.790Z [info] Iniciando o ambiente development
+2024-11-19T10:34:51.792Z [info] Server rodando na porta 8080
+2024-11-19T10:34:58.686Z [info] Iniciando o ambiente development
+2024-11-19T10:34:58.688Z [info] Server rodando na porta 8080
+2024-11-19T10:35:30.820Z [info] Iniciando o ambiente development
+2024-11-19T10:35:30.823Z [info] Server rodando na porta 8080
+2024-11-19T10:35:35.794Z [info] Iniciando o ambiente development
+2024-11-19T10:35:35.797Z [info] Server rodando na porta 8080
+2024-11-19T10:35:38.388Z [info] Iniciando o ambiente development
+2024-11-19T10:35:38.390Z [info] Server rodando na porta 8080
+2024-11-19T10:35:42.128Z [info] Iniciando o ambiente development
+2024-11-19T10:35:42.130Z [info] Server rodando na porta 8080
+2024-11-19T10:35:48.014Z [info] Iniciando o ambiente development
+2024-11-19T10:35:48.016Z [info] Server rodando na porta 8080
+2024-11-19T10:35:49.726Z [info] Iniciando o ambiente development
+2024-11-19T10:35:49.728Z [info] Server rodando na porta 8080
+2024-11-19T10:35:58.333Z [info] Iniciando o ambiente development
+2024-11-19T10:35:58.335Z [info] Server rodando na porta 8080
+2024-11-19T10:36:05.252Z [info] Iniciando o ambiente development
+2024-11-19T10:36:05.254Z [info] Server rodando na porta 8080
+2024-11-19T10:36:08.682Z [info] Iniciando o ambiente development
+2024-11-19T10:36:08.684Z [info] Server rodando na porta 8080
+2024-11-19T10:36:11.489Z [info] Iniciando o ambiente development
+2024-11-19T10:36:11.491Z [info] Server rodando na porta 8080
+2024-11-19T10:36:15.036Z [info] Iniciando o ambiente development
+2024-11-19T10:36:15.038Z [info] Server rodando na porta 8080
+2024-11-19T10:36:16.770Z [info] Iniciando o ambiente development
+2024-11-19T10:36:16.773Z [info] Server rodando na porta 8080
+2024-11-19T10:36:22.246Z [info] Iniciando o ambiente development
+2024-11-19T10:36:22.248Z [info] Server rodando na porta 8080
+2024-11-19T10:36:56.511Z [info] Iniciando o ambiente development
+2024-11-19T10:36:56.513Z [info] Server rodando na porta 8080
+2024-11-19T10:36:59.739Z [info] Iniciando o ambiente development
+2024-11-19T10:36:59.741Z [info] Server rodando na porta 8080
+2024-11-19T10:37:11.818Z [info] Iniciando o ambiente development
+2024-11-19T10:37:11.822Z [info] Server rodando na porta 8080
+2024-11-19T10:37:26.011Z [info] Iniciando o ambiente development
+2024-11-19T10:37:26.013Z [info] Server rodando na porta 8080
+2024-11-19T10:37:32.218Z [info] Iniciando o ambiente development
+2024-11-19T10:37:32.220Z [info] Server rodando na porta 8080
+2024-11-19T10:37:34.361Z [info] Iniciando o ambiente development
+2024-11-19T10:37:34.363Z [info] Server rodando na porta 8080
+2024-11-19T10:37:36.611Z [info] Iniciando o ambiente development
+2024-11-19T10:37:36.614Z [info] Server rodando na porta 8080
+2024-11-19T10:37:37.958Z [info] Iniciando o ambiente development
+2024-11-19T10:37:37.961Z [info] Server rodando na porta 8080
+2024-11-19T10:37:41.271Z [info] Iniciando o ambiente development
+2024-11-19T10:37:41.274Z [info] Server rodando na porta 8080
+2024-11-19T10:37:43.581Z [info] Iniciando o ambiente development
+2024-11-19T10:37:43.583Z [info] Server rodando na porta 8080
+2024-11-19T10:37:48.908Z [info] Iniciando o ambiente development
+2024-11-19T10:37:48.909Z [info] Server rodando na porta 8080
+2024-11-19T10:37:53.374Z [info] Iniciando o ambiente development
+2024-11-19T10:37:53.376Z [info] Server rodando na porta 8080
+2024-11-19T10:37:54.824Z [info] Iniciando o ambiente development
+2024-11-19T10:37:54.826Z [info] Server rodando na porta 8080
+2024-11-19T10:37:59.417Z [info] Iniciando o ambiente development
+2024-11-19T10:37:59.419Z [info] Server rodando na porta 8080
+2024-11-19T10:38:04.872Z [info] Iniciando o ambiente development
+2024-11-19T10:38:04.874Z [info] Server rodando na porta 8080
+2024-11-19T10:38:08.344Z [info] Iniciando o ambiente development
+2024-11-19T10:38:08.346Z [info] Server rodando na porta 8080
+2024-11-19T10:38:20.785Z [info] Iniciando o ambiente development
+2024-11-19T10:38:20.787Z [info] Server rodando na porta 8080
+2024-11-19T10:38:24.314Z [info] Iniciando o ambiente development
+2024-11-19T10:38:24.316Z [info] Server rodando na porta 8080
+2024-11-19T10:38:29.869Z [info] Iniciando o ambiente development
+2024-11-19T10:38:29.871Z [info] Server rodando na porta 8080
+2024-11-19T10:38:34.779Z [info] Iniciando o ambiente development
+2024-11-19T10:38:34.781Z [info] Server rodando na porta 8080
+2024-11-19T10:38:37.122Z [info] Iniciando o ambiente development
+2024-11-19T10:38:37.124Z [info] Server rodando na porta 8080
+2024-11-19T10:38:38.224Z [info] Iniciando o ambiente development
+2024-11-19T10:38:38.226Z [info] Server rodando na porta 8080
+2024-11-19T10:38:43.064Z [info] Iniciando o ambiente development
+2024-11-19T10:38:43.066Z [info] Server rodando na porta 8080
+2024-11-19T10:38:45.440Z [info] Iniciando o ambiente development
+2024-11-19T10:38:45.442Z [info] Server rodando na porta 8080
+2024-11-19T10:38:51.429Z [info] Iniciando o ambiente development
+2024-11-19T10:38:51.431Z [info] Server rodando na porta 8080
+2024-11-19T10:38:52.721Z [info] Iniciando o ambiente development
+2024-11-19T10:38:52.723Z [info] Server rodando na porta 8080
+2024-11-19T10:39:00.690Z [info] Iniciando o ambiente development
+2024-11-19T10:39:00.692Z [info] Server rodando na porta 8080
+2024-11-19T10:39:04.207Z [info] Iniciando o ambiente development
+2024-11-19T10:39:04.209Z [info] Server rodando na porta 8080
+2024-11-19T10:39:06.188Z [info] Iniciando o ambiente development
+2024-11-19T10:39:06.190Z [info] Server rodando na porta 8080
+2024-11-19T10:39:08.366Z [info] Iniciando o ambiente development
+2024-11-19T10:39:08.368Z [info] Server rodando na porta 8080
+2024-11-19T10:39:13.455Z [info] Iniciando o ambiente development
+2024-11-19T10:39:13.457Z [info] Server rodando na porta 8080
+2024-11-19T10:39:18.741Z [info] Iniciando o ambiente development
+2024-11-19T10:39:18.743Z [info] Server rodando na porta 8080
+2024-11-19T10:39:21.155Z [info] Iniciando o ambiente development
+2024-11-19T10:39:21.157Z [info] Server rodando na porta 8080
+2024-11-19T10:39:22.387Z [info] Iniciando o ambiente development
+2024-11-19T10:39:22.389Z [info] Server rodando na porta 8080
+2024-11-19T10:39:38.238Z [info] Iniciando o ambiente development
+2024-11-19T10:39:38.240Z [info] Server rodando na porta 8080
+2024-11-19T10:39:41.631Z [info] Iniciando o ambiente development
+2024-11-19T10:39:41.634Z [info] Server rodando na porta 8080
+2024-11-19T10:39:48.060Z [info] Iniciando o ambiente development
+2024-11-19T10:39:48.062Z [info] Server rodando na porta 8080
+2024-11-19T10:40:33.433Z [info] Iniciando o ambiente development
+2024-11-19T10:40:33.435Z [info] Server rodando na porta 8080
+2024-11-19T10:40:36.870Z [info] Iniciando o ambiente development
+2024-11-19T10:40:36.873Z [info] Server rodando na porta 8080
+2024-11-19T10:40:38.858Z [info] Iniciando o ambiente development
+2024-11-19T10:40:38.860Z [info] Server rodando na porta 8080
+2024-11-19T10:40:40.064Z [info] Iniciando o ambiente development
+2024-11-19T10:40:40.066Z [info] Server rodando na porta 8080
+2024-11-19T10:41:21.792Z [info] Iniciando o ambiente development
+2024-11-19T10:41:21.794Z [info] Server rodando na porta 8080
+2024-11-19T10:42:52.282Z [info] Iniciando o ambiente development
+2024-11-19T10:42:52.284Z [info] Server rodando na porta 8080
+2024-11-19T10:43:11.791Z [info] Iniciando o ambiente development
+2024-11-19T10:43:11.793Z [info] Server rodando na porta 8080
+2024-11-19T10:43:16.846Z [info] Iniciando o ambiente development
+2024-11-19T10:43:16.848Z [info] Server rodando na porta 8080
+2024-11-19T10:43:20.374Z [info] Iniciando o ambiente development
+2024-11-19T10:43:20.376Z [info] Server rodando na porta 8080
+2024-11-19T10:43:36.243Z [info] Iniciando o ambiente development
+2024-11-19T10:43:36.245Z [info] Server rodando na porta 8080
+2024-11-19T10:43:51.788Z [info] Iniciando o ambiente development
+2024-11-19T10:43:51.791Z [info] Server rodando na porta 8080
+2024-11-19T10:43:55.930Z [info] Iniciando o ambiente development
+2024-11-19T10:43:55.932Z [info] Server rodando na porta 8080
+2024-11-19T10:43:57.875Z [info] Iniciando o ambiente development
+2024-11-19T10:43:57.877Z [info] Server rodando na porta 8080
+2024-11-19T10:44:06.922Z [info] Iniciando o ambiente development
+2024-11-19T10:44:06.924Z [info] Server rodando na porta 8080
+2024-11-19T10:44:36.158Z [info] Iniciando o ambiente development
+2024-11-19T10:44:36.160Z [info] Server rodando na porta 8080
+2024-11-19T10:44:38.616Z [info] Iniciando o ambiente development
+2024-11-19T10:44:38.618Z [info] Server rodando na porta 8080
+2024-11-19T10:44:42.997Z [info] Iniciando o ambiente development
+2024-11-19T10:44:42.999Z [info] Server rodando na porta 8080
+2024-11-19T10:44:45.335Z [info] Iniciando o ambiente development
+2024-11-19T10:44:45.337Z [info] Server rodando na porta 8080
+2024-11-19T10:44:46.719Z [info] Iniciando o ambiente development
+2024-11-19T10:44:46.721Z [info] Server rodando na porta 8080
+2024-11-19T10:45:46.937Z [info] Iniciando o ambiente development
+2024-11-19T10:45:46.940Z [info] Server rodando na porta 8080
+2024-11-19T10:45:49.796Z [info] Iniciando o ambiente development
+2024-11-19T10:45:49.798Z [info] Server rodando na porta 8080
+2024-11-19T10:45:52.561Z [info] Iniciando o ambiente development
+2024-11-19T10:45:52.563Z [info] Server rodando na porta 8080
+2024-11-19T10:45:55.336Z [info] Iniciando o ambiente development
+2024-11-19T10:45:55.338Z [info] Server rodando na porta 8080
+2024-11-19T10:45:58.081Z [info] Iniciando o ambiente development
+2024-11-19T10:45:58.083Z [info] Server rodando na porta 8080
+2024-11-19T10:45:59.409Z [info] Iniciando o ambiente development
+2024-11-19T10:45:59.411Z [info] Server rodando na porta 8080
+2024-11-19T10:46:04.523Z [info] Iniciando o ambiente development
+2024-11-19T10:46:04.525Z [info] Server rodando na porta 8080
+2024-11-19T10:46:07.708Z [info] Iniciando o ambiente development
+2024-11-19T10:46:07.711Z [info] Server rodando na porta 8080
+2024-11-19T10:46:34.485Z [info] Iniciando o ambiente development
+2024-11-19T10:46:34.487Z [info] Server rodando na porta 8080
+2024-11-19T10:47:10.939Z [info] Iniciando o ambiente development
+2024-11-19T10:47:10.941Z [info] Server rodando na porta 8080
+2024-11-19T10:47:15.880Z [info] Iniciando o ambiente development
+2024-11-19T10:47:15.882Z [info] Server rodando na porta 8080
+2024-11-19T10:47:17.727Z [info] Iniciando o ambiente development
+2024-11-19T10:47:17.729Z [info] Server rodando na porta 8080
+2024-11-19T10:47:20.596Z [info] Iniciando o ambiente development
+2024-11-19T10:47:20.598Z [info] Server rodando na porta 8080
+2024-11-19T10:47:22.093Z [info] Iniciando o ambiente development
+2024-11-19T10:47:22.095Z [info] Server rodando na porta 8080
+2024-11-19T10:47:23.707Z [info] Iniciando o ambiente development
+2024-11-19T10:47:23.709Z [info] Server rodando na porta 8080
+2024-11-19T10:47:25.829Z [info] Iniciando o ambiente development
+2024-11-19T10:47:25.831Z [info] Server rodando na porta 8080
+2024-11-19T10:47:27.118Z [info] Iniciando o ambiente development
+2024-11-19T10:47:27.121Z [info] Server rodando na porta 8080
+2024-11-19T10:47:30.120Z [info] Iniciando o ambiente development
+2024-11-19T10:47:30.122Z [info] Server rodando na porta 8080
+2024-11-19T10:47:31.573Z [info] Iniciando o ambiente development
+2024-11-19T10:47:31.576Z [info] Server rodando na porta 8080
+2024-11-19T10:47:34.212Z [info] Iniciando o ambiente development
+2024-11-19T10:47:34.214Z [info] Server rodando na porta 8080
+2024-11-19T10:47:40.203Z [info] Iniciando o ambiente development
+2024-11-19T10:47:40.207Z [info] Server rodando na porta 8080
+2024-11-19T10:47:41.752Z [info] Iniciando o ambiente development
+2024-11-19T10:47:41.754Z [info] Server rodando na porta 8080
+2024-11-19T10:47:44.568Z [info] Iniciando o ambiente development
+2024-11-19T10:47:44.571Z [info] Server rodando na porta 8080
+2024-11-19T10:47:45.952Z [info] Iniciando o ambiente development
+2024-11-19T10:47:45.955Z [info] Server rodando na porta 8080
+2024-11-19T10:47:47.208Z [info] Iniciando o ambiente development
+2024-11-19T10:47:47.212Z [info] Server rodando na porta 8080
+2024-11-19T10:48:05.462Z [info] Iniciando o ambiente development
+2024-11-19T10:48:05.464Z [info] Server rodando na porta 8080
+2024-11-19T10:48:08.105Z [info] Iniciando o ambiente development
+2024-11-19T10:48:08.107Z [info] Server rodando na porta 8080
+2024-11-19T10:48:11.164Z [info] Iniciando o ambiente development
+2024-11-19T10:48:11.167Z [info] Server rodando na porta 8080
+2024-11-19T10:48:33.689Z [info] Iniciando o ambiente development
+2024-11-19T10:48:33.692Z [info] Server rodando na porta 8080
