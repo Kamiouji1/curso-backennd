@@ -8,11 +8,15 @@ const logger = require('./utils/logger')
 const logMiddleware = require ('./middleware/log.mid')
 const swaggerUi = require('swagger-ui-express')
 const YAML = require('yamljs')
+const helmet = require('helmet');
+
 
 const swaggerDocument = YAML.load('./api.yaml')
 
 require('dotenv').config()
 const app = express()
+
+app.use(helmet())
 
 app.use('/api/docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument))
 
@@ -40,7 +44,9 @@ app.use((err, req, res, next) => {
     res.status(statusCode).json({msg: msg} )
 })
 
-app.listen(8080, () => {
+const PORT = process.env.PORT
+
+app.listen(PORT, () => {
     logger.info(`Iniciando o ambiente ${process.env.NODE_ENV}`)
-    logger.info('Server rodando na porta 8080')
+    logger.info(`Server rodando na porta ${PORT}`)
 })
